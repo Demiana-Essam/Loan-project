@@ -1,0 +1,1 @@
+streamlit run "E:\epsilon_ai_matrials\AAI_training_hesham_asem\6- Training\Classifcation Project for Loan_Status\project_data\app.py"
